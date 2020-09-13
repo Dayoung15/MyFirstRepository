@@ -2,4 +2,4 @@
 
 Hello my name is Dayoung
 
-<img width="" height="" src="./Png/2주차과제.png"></img>
+<img width="" height="" src="./Png/d2.png"></img>

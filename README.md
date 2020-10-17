@@ -16,5 +16,5 @@
 -출발지 / 목적지 설정을 예상 도착 시간 도출 가능
 
 ## 7 주차 과제
-<img 너비 = ""높이 = ""src = "./png/DY_7_1.png"></img>
-<img 너비 = ""높이 이이 = ""src = "./png/DY_7_2.png"></img>
+<img width="" height="" src="./png/DY_7_1.png"></img>
+<img width="" height="" src="./png/DY_7_2.png"></img>

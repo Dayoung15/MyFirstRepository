@@ -1,7 +1,7 @@
 # 19173035최다영
 
 ## 2주차 과제
-<img width="" height="" src="./png/DY_2.png"></img>
+<img width="100" height="100" src="./png/DY_2.png"></img>
     
 ## 3주차 과제
 <img width="" height="" src="./png/DY_3_1.png"></img>
@@ -20,9 +20,12 @@
 <img width="" height="" src="./png/DY_7_2.png"></img>
 
 ## 9 주차 과제
-<img width="" height="" src="./png/DY_9_1.png"></img>
+<img width="100100" height="100" src="./png/DY_9_1.png"></img>
 <img width="" height="" src="./png/DY_9_2.png"></img>
 <img width="" height="" src="./png/DY_9_3.png"></img>
 <img width="" height="" src="./png/DY_9_4.png"></img>
 <img width="" height="" src="./png/DY_9_5.png"></img>
 <img width="" height="" src="./png/DY_9_6.png"></img>
+
+## 10 주차 과제
+<img width="" height="" src="./png/DY_10.png"></img>
